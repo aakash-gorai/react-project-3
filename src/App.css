@@ -48,7 +48,7 @@ button {
 }
 
 .meme--image {
-  padding: 20px 300px;
+  padding: 20px 400px;
   max-width: 50%;
   border-radius: 3px;
 }
@@ -72,10 +72,10 @@ button {
 
 .bottom {
   bottom: 0;
-  padding-top: px;
+  padding-bottom: 35px;
 }
 
 .top {
   top: 0;
-  padding-top: 34px;
+  padding-top: 35px;
 }
